@@ -66,20 +66,6 @@ JUnit 5, en testklass per komponent, alla med Arrange-Act-Assert:
 
  Dokumenterad felsökning
 
-TODO – skriv om detta avsnitt med en RIKTIG bugg från ditt eget arbete och ta bort den här rutan.
- Fyll i rubrikerna nedan med det som faktiskt hände.
-
-Symptom / hur jag upptäckte den:** (vilket test failade, eller vad såg du när du körde programmet?)
-
-Felsökning: (vilka breakpoints satte du, vilka variabler tittade du på, vad visade loggen, vilka hypoteser avfärdade du?)
-
-Orsak: (vad var det egentliga felet, och var i koden?)
-
-Åtgärd: (vad ändrade du, i vilken commit?)
-
-Regressionstest: (vilket test skyddar nu mot att buggen kommer tillbaka?)
-
-Reflektion: generics och Stream API (VG)
 
 
 
